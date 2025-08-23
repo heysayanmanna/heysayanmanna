@@ -1,5 +1,8 @@
 # Sayan Manna  
 
+![Profile Views](https://komarev.com/ghpvc/?username=heysayanmanna&color=blue)
+
+
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F72D2D&lines=Hi+%F0%9F%91%8B%2C+I'm+Sayan+Manna;Aspiring+MERN+Stack+Developer;Full-Stack+Web+Developer;AI%2FML+%26+Data+Science+Explorer;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
