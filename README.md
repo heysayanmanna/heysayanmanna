@@ -1,10 +1,16 @@
 # Sayan Manna  
 
-![Profile Views](https://komarev.com/ghpvc/?username=heysayanmanna&color=blue)
+
+
+
+
+
 
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F72D2D&lines=Hi+%F0%9F%91%8B%2C+I'm+Sayan+Manna;Aspiring+MERN+Stack+Developer;Full-Stack+Web+Developer;AI%2FML+%26+Data+Science+Explorer;Always+Learning+New+Things!)](https://git.io/typing-svg)
+
+
 
 <h1 align="center">Hi , I'm Sayan Manna👋</h1>
 <h3 align="center">BCA ’28 | Aspiring MERN Stack Developer | AI/ML & Data Science Explorer | Full-Stack Web Developer</h3>
@@ -12,6 +18,9 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
+
+
+
 
 ## 💡 About Me  
 - 🎓 Pursuing **Bachelor of Computer Applications (NSHM, BCA ’28)**  
@@ -21,6 +30,7 @@
 - 📬 Reach me at **sayanmanna.in@gmail.com**
 
 ---
+
 
 ## 🛠️ Tech Stack  
 
@@ -46,6 +56,7 @@
 
 ---
 
+
 ## 🌟 Featured Projects  
 
 | Project | Description | Tech |
@@ -56,6 +67,10 @@
 | 🌐 [Portfolio Starter]() | Modern **portfolio website starter** with clean UI and responsive design | HTML, CSS, JavaScript |
 
 ---
+
+
+
+
 
 ## 📊 GitHub Analytics  
 
@@ -70,6 +85,7 @@
 </p>
 
 ---
+
 
 ## 🌐 Connect With Me  
 <p align="center">
@@ -87,3 +103,8 @@
 ---
 
 ⭐️ From [sayanmanna](https://github.com/sayanmanna)  
+
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=heysayanmanna&color=blue)
