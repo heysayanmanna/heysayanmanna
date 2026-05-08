@@ -1,185 +1,156 @@
-# 🚀 PREMIUM GITHUB PROFILE README (Modern HR / CEO / CTO Impression Style)
 
-````md
-<div align="center">
+# Sayan Manna
 
-# SAJAN MANNA
-### Full-Stack Engineer • MERN Developer • AI/ML Explorer
+<!-- Typing animation -->
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Sayan+Manna;Full-Stack+Developer;MERN+Stack+Developer;AI%2FML+%26+Data+Science+Explorer;Building+Modern+Digital+Experiences)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;MERN+Stack+Developer;AI%2FML+%26+Data+Science+Explorer;Creating+Premium+Digital+Products" />
+</p>
 
-<br/>
+<h1 align="center">Hi 👋, I'm Sayan Manna</h1>
 
-<a href="https://github.com/heysayanmanna">
-<img src="https://img.shields.io/github/followers/heysayanmanna?style=for-the-badge&color=111827&labelColor=000000"/>
-</a>
+<h3 align="center">
+  
+BCA Student • Full-Stack Developer • MERN Stack Developer • AI/ML Explorer
 
-<a href="https://komarev.com/ghpvc/?username=heysayanmanna">
-<img src="https://komarev.com/ghpvc/?username=heysayanmanna&style=for-the-badge&color=2563eb"/>
-</a>
-
-</div>
+</h3>
 
 ---
 
-## 👨‍💻 About Me
+## 💡 About Me
 
-```js
-const sayan = {
-  role: "Full-Stack Developer",
-  specialization: ["MERN Stack", "AI/ML", "Modern UI/UX"],
-  currentlyLearning: ["Advanced Backend", "AI Integrations"],
-  passion: "Building premium scalable digital experiences",
-  openTo: ["Internships", "Freelance", "Collaborations"]
-}
-````
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-* 🎓 BCA Student at **Bhawanipur Global Campus, Kolkata**
-* 💻 Focused on **Full-Stack Development & AI-powered Applications**
-* 🚀 Passionate about creating modern premium web experiences
-* 🌱 Exploring AI, Machine Learning & scalable backend systems
-* ⚡ Strong interest in startup products & SaaS applications
+- 🎓 Pursuing **Bachelor of Computer Applications** at **Bhawanipur Global Campus, Kolkata**
+- 💻 Skilled in **JavaScript, React, Node.js, MongoDB, Python, C & DSA**
+- 🚀 Passionate about **Full-Stack Development, AI-powered Applications & Modern UI/UX**
+- 🌱 Currently learning **Advanced MERN Stack, Backend Development & AI Integrations**
+- 💼 Open to opportunities in **Software Development, Full-Stack Engineering & AI/ML**
+- ⚡ Love creating **premium SaaS-style web experiences**
+- 📫 Reach me at: **sayanmanna.in@gmail.com**
+
+<br><br><br><br>
 
 ---
 
-## ⚒️ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+### 🚀 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6D28D9?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,git,github,vscode,tailwind,bootstrap,mysql&theme=dark" />
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
 
-</div>
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-022C22?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=00758F)
+
+### 💻 Languages & Tools
+![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Redux](https://img.shields.io/badge/Redux-111827?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Netlify](https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🌦️ AI Weather App
-
-Modern AI-powered weather application with AQI insights, sunrise/sunset tracking, lifestyle suggestions & responsive UI.
-
-### 🤖 AI Chatbot
-
-Interactive chatbot with contextual memory and premium user experience.
-
-### ☕ ROYAL Coffee Website
-
-Luxury Apple-style coffee brand experience built with premium UI/UX design principles.
-
-### 📊 AutoAnalyst AI
-
-AI-driven analytics platform for data cleaning, visualization & machine learning workflows.
+| 🚀 Project | 💡 Description | ⚙️ Tech Stack |
+|------------|----------------|---------------|
+| 🌦️ [AI Weather App](https://github.com/heysayanmanna) | Smart weather app with AQI, AI suggestions, sunrise/sunset & modern responsive UI | HTML, CSS, JavaScript |
+| 🤖 [AI Chatbot](https://github.com/heysayanmanna) | Interactive chatbot with contextual memory and modern interface | JavaScript, Bootstrap |
+| 📊 [AutoAnalyst AI](https://github.com/heysayanmanna) | AI-powered analytics platform with ML workflows and visualization | Python, Flask |
+| ☕ [ROYAL Coffee Website](https://github.com/heysayanmanna) | Luxury Apple-style coffee brand website with premium UI/UX | React, Tailwind |
+| 🌐 [Portfolio Website](https://github.com/heysayanmanna) | Modern developer portfolio with smooth UI and animations | React, JavaScript |
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=heysayanmanna&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=heysayanmanna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=38BDF8&text_color=FFFFFF"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=heysayanmanna&theme=github-dark-blue&hide_border=true&background=0D1117" />
+<img width="49%" src="https://streak-stats.demolab.com?user=heysayanmanna&theme=tokyonight&hide_border=true&background=0D1117&ring=7DD3FC&fire=38BDF8&currStreakLabel=7DD3FC"/>
 
-</div>
+</p>
 
-<br/>
+<p align="center">
 
-<div align="center">
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heysayanmanna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=FFFFFF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heysayanmanna&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-
-</div>
+</p>
 
 ---
 
-## 🏆 Achievements
+## ⚡ Current GitHub Activity
 
-<div align="center">
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<img src="https://github-profile-trophy.vercel.app/?username=heysayanmanna&theme=algolia&no-frame=true&margin-w=10" />
+---
 
-</div>
+## 📈 Contribution Graph
+
+[![Sayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heysayanmanna&theme=tokyo-night&hide_border=true)](https://github.com/heysayanmanna)
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=heysayanmanna&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<a href="mailto:sayanmanna.in@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:sayanmanna.in@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/heysayanmanna">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/heysayanmanna" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/iamsayanmanna/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/iamsayanmanna/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ✨ Building modern experiences with clean code & creativity ✨
+<img src="https://komarev.com/ghpvc/?username=heysayanmanna&style=for-the-badge&color=2563eb"/>
 
-</div>
-```
-
----
-
-# 🐍 AUTO UPDATE SNAKE ANIMATION
-
-Create this file:
-
-```text
-.github/workflows/snake.yml
-```
-
-Paste this:
-
-```yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: heysayanmanna
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+</p>
 
 ---
 
-# ✅ WHY THIS VERSION IS BETTER
+<h3 align="center">
 
-* Cleaner & professional
-* No childish heavy layout
-* HR / CEO / CTO friendly
-* Modern startup engineer vibe
-* More premium & minimal
-* Better mobile responsiveness
-* Long-term stable
-* Easy to maintain
-* Premium developer branding
+✨ Building modern experiences with clean code & creativity ✨
+
+</h3>
+
