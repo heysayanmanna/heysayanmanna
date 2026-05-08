@@ -83,15 +83,15 @@ BCA Student • Full-Stack Developer • MERN Stack Developer • AI/ML Explorer
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=heysayanmanna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=38BDF8&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=heysayanmanna&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=heysayanmanna&theme=tokyonight&hide_border=true&background=0D1117&ring=7DD3FC&fire=38BDF8&currStreakLabel=7DD3FC"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=heysayanmanna&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heysayanmanna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=FFFFFF"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heysayanmanna&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
